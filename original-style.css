@@ -1,0 +1,36 @@
+/* --------------------------- Style for Task #1  --------------------------- */
+
+h1, h2 {
+  color: purple;
+}
+
+p {
+  color: gray;
+}
+
+/* --------------------------- Style for Task #2  --------------------------- */
+
+ul {
+  border: 2px solid orange;
+}
+
+ol {
+  border: 2px solid purple;
+}
+
+ol, ul {
+  padding: 5px 20px;
+  border-radius: 4px;
+}
+
+
+/* --------------------------- Style for Task #3  --------------------------- 
+
+h1, h2 {
+  color: purple;
+}
+
+p {
+  color: gray;
+}
+*/  
